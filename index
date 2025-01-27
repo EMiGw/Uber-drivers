@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Uber Drivers Movement Blog</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+</head>
+<body>
+    <nav class="container-fluid">
+        <ul>
+            <li><strong>Uber Drivers Movement Blog</strong></li>
+        </ul>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Tips</a></li>
+            <li><a href="#" role="button">Subscribe</a></li>
+        </ul>
+    </nav>
+
+    <main class="container">
+        <div class="grid">
+            <section>
+                <hgroup>
+                    <h2>Welcome to the Uber Drivers Movement Blog</h2>
+                    <h3>Your go-to resource for insights and tips!</h3>
+                </hgroup>
+                <p>We’re excited to have you here. This movement was founded by John, Noah, Rick and Peter, names you might recognize from our recent hit, Social Media Trap the Rap. While we’re passionate about making music, we’re also active as Uber drivers to support our livelihoods.
+                We created this platform to give drivers a voice and address the growing concerns surrounding specific features and notifications provided by Uber. Over time, we’ve noticed a lot of confusion and frustration in the community, and we believe it’s time to bring clarity to these issues.
+                Our goal is to unite drivers and researchers to shed light on these concerns, promote transparency, and raise awareness about the broader implications they may have. Together, we can work toward a better understanding and a stronger community.
+</p>
+                <figure>
+                    <img src="https://files.oaiusercontent.com/file-WvnrX8sMt5LvAPfdCDuUia?se=2025-01-27T17%3A38%3A54Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Daa51dcc1-b7a0-41b4-8b1c-f314108ca0a7.webp&sig=UMFZW42HHqQQ/i34VfH5bFRTRjv0lUHMB/MTjyQ0yTo%3D" alt="A sleek ride-hailing car in the city" />
+                    <figcaption><a href="https://files.oaiusercontent.com/file-WvnrX8sMt5LvAPfdCDuUia?se=2025-01-27T17%3A38%3A54Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Daa51dcc1-b7a0-41b4-8b1c-f314108ca0a7.webp&sig=UMFZW42HHqQQ/i34VfH5bFRTRjv0lUHMB/MTjyQ0yTo%3D" target="_blank">Image of a ride-hailing car</a></figcaption>
+                </figure>
+            </section>
+        </div>
+
+        <div class="grid">
+            <h2>Latest Blog Posts</h2>
+            <article>
+                <hgroup>
+                    <h3>Location and time advice</h3>
+                    <h4>By John | January 7, 2025</h4>
+                </hgroup>
+                <p>At first, I thought Uber was helping me make more money by showing me where I could find more gigs....</p>
+                <a href="post1.html" role="button">Read More</a>
+            </article>
+
+            <article>
+                <hgroup>
+                    <h3>Badges and Rewards</h3>
+                    <h4>By Peter | January 15, 2025</h4>
+                </hgroup>
+                <p>Being an Uber driver is not just about getting people from point A to point B...</p>
+                <a href="post2.html" role="button">Read More</a>
+            </article>
+
+            <article>
+                <hgroup>
+                    <h3>Fast forward and you might miss what it’s doing to you</h3>
+                    <h4>By Noah | January 16, 2025</h4>
+                </hgroup>
+                <p>Working in today’s gig economy, you’ve got to love efficiency...</p>
+                <a href="post3.html" role="button">Read More</a>
+            </article>
+            <article>
+                <hgroup>
+                    <h3>Rating score</h3>
+                    <h4>By Rick | January 18, 2025</h4>
+                </hgroup>
+                <p>When I started driving for Uber, I believed their driver rating system was a simple way to assess performance and provide helpful feedback...</p>
+                <a href="post3.html" role="button">Read More</a>
+            </article>
+        </div>
+    </main>
+
+    <section aria-label="Subscribe example">
+        <div class="container">
+            <article>
+                <hgroup>
+                    <h2>Subscribe to Our Newsletter</h2>
+                    <h3>Stay updated with the latest tips and news</h3>
+                </hgroup>
+                <form class="grid">
+                    <input type="text" id="firstname" name="firstname" placeholder="Your First Name" aria-label="First Name" required />
+                    <input type="email" id="email" name="email" placeholder="Your Email" aria-label="Email" required />
+                    <button type="submit" onclick="event.preventDefault()">Subscribe</button>
+                </form>
+            </article>
+        </div>
+    </section>
+
+    <footer class="container">
+        <small><a href="#">Privacy Policy</a> • <a href="#">Terms of Service</a></small>
+    </footer>
+</body>
+</html>

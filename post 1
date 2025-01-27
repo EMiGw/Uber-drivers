@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Location and time advice</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+</head>
+
+<body>
+    <nav class="container-fluid">
+        <ul>
+            <li><a href="index.html"><strong>Uber Drivers Movement Blog</strong></a></li>
+        </ul>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Tips</a></li>
+            <li><a href="#" role="button">Subscribe</a></li>
+        </ul>
+    </nav>
+
+    <main class="container">
+        <article>
+            <hgroup>
+                <h2>Location and time advice</h2>
+                <h3>By John | January 7, 2025</h3>
+            </hgroup>
+            <p>At first, I thought Uber was helping me make more money by showing me where I could find more gigs....
+            </p>
+            <ol>
+                </p>I would get notifications with location advice, which initially seemed innocent. However, I quickly
+                    noticed that when I arrived at the suggested locations, business wasn’t necessarily better.</p>
+                </p>That’s not all. As a father of three, I used to work mostly on weekdays, which allowed me to spend
+                    weekends with my kids. But a few weeks ago, Uber announced that drivers who work on Fridays,
+                    Saturdays, and Sundays earn 85% more than those who work during the week. This revelation led me to
+                    change my schedule to work more on weekends.</p>
+                
+                </p>On one hand, I’m grateful for this insight because I want to support my family financially as much
+                    as possible. On the other hand, I’m spending less time with my kids and often feel too exhausted to
+                    be the engaged father I want to be when I’m home.</p>
+                
+                </p>I’m left wondering how Uber determines these time and location recommendations. Are they truly
+                    designed to benefit drivers, or do they primarily serve Uber’s interests? More importantly, are
+                    these notifications ethically responsible and compliant with regulations?</p>
+                
+                </p>I would appreciate any insights into this, as I’m unsure of what to do moving forward.</p>
+                
+                </p>Thank you in advance for your help!</p>
+                
+                </p>Kind regards,</p>
+                
+                </p>John</p>
+                
+
+            </ol>
+        </article>
+
+        <section>
+            <h3>Leave a Reply</h3>
+            <form>
+                <textarea name="reply" rows="4" placeholder="Write your reply here..." required></textarea>
+                <button type="submit" onclick="event.preventDefault()">Submit Reply</button>
+            </form>
+        </section>
+    
+        <main class="container">
+            <article>
+                <hgroup>
+                    <h2>You're not alone!</h2>
+                    <h3>By Noam Schreiber | January 8, 2025</h3>
+                </hgroup>
+                <p> Dear John,<p>
+                    <p>You’re not alone in facing these challenges. As a journalist for the New York Times, I’ve investigated the strategies Uber uses to influence drivers and the ethical implications of these practices. Research by Uzunca & Kas (2022, p.673) has shed light on this issue. Their findings indicate that Uber’s location recommendations, while framed as tools to help drivers find clients, actually serve the company’s goal of evenly distributing drivers across a city to improve efficiency in rider-driver matching.<p>
+                        <p>Regarding time-based nudges, Uber leverages a psychological concept known as loss aversion, the tendency for people to strongly prefer avoiding losses over acquiring gains. By highlighting the potential earnings difference between weekdays and weekends, Uber nudges drivers to work during peak demand times, even if it disrupts their personal schedules.<p>
+                            <p>While these recommendations may seem helpful on the surface, unfortunately, they lack transparency and are not necessarily aligned with drivers’ best interests. Instead, they prioritize Uber’s operational efficiency. In essence, these nudges may be misleading (Thaler, 2018).<p>
+                                <p>The ethicality of these practices is worth questioning. Richard H. Thaler, author of Nudge: Improving Decisions About Health, Wealth, and Happiness, describes a nudge as a way to encourage better choices by enhancing decision-making environments without limiting options. Uber’s tactics don’t restrict drivers’ choices, so they initially seem to qualify as nudges. However, Thaler emphasizes that nudges should help individuals make better decisions as judged by themselves. Therefore, Uber’s disguised nudges seem more akin to what Thaler and others call sludge, a process that complicates decision-making to achieve outcomes that primarily benefit the choice architect, in this case, Uber. These practices prioritize the company’s goals over drivers’ well-being, raising ethical concerns. (BehavioralEconomics.com, 2024; Thaler, 2018)<p>
+                                    <p>I hope these insights support you in making a more informed decision.<p>
+                                        <p>Kind regards,<p>
+                                            <p>Noam Schreiber<p>
+
+        <section>
+            <section>
+    </main>
+
+    <footer class="container">
+        <small><a href="#">Privacy Policy</a> • <a href="#">Terms of Service</a></small>
+    </footer>
+</body>
+
+</html>
